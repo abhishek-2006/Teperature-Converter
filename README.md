@@ -31,11 +31,19 @@ To run this project locally, follow these steps:
    git clone https://github.com/abhishek-2006/temperature-converter.git
 
 2. Open the project folder:
-```bash
-cd temperature-converter
+   ```bash
+   cd temperature-converter
 
 3. Open the index.html file in a web browser:
-```bash
-open index.html
+   ```bash
+   open index.html
 
 No additional setup is needed as the project is static and runs directly in the browser.
+
+## 📄 License
+Licensed under the MIT License. Feel free to use and modify.
+
+## 👨‍💻 Author
+Developed by Abhishek Shah.
+
+⭐ Give this project a star if you found it helpful!
