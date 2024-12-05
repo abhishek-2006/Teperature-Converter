@@ -1,0 +1,73 @@
+body {
+    background: linear-gradient(to right, #4facfe, #00f2fe);
+    background-color: #f8f9fa;
+}
+
+.container {
+    height: 100vh;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #007bff;
+}
+
+label {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+#temperature {
+    font-size: 1.1rem;
+}
+
+#result {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+#resultFrom, #resultTo {
+    background-color: #e9ecef;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #007bff;
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 10px;
+    width: 45%;
+    text-align: center;
+}
+
+.d-flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.converter {
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #333;
+}
+
+.form-select, .form-control {
+    border-radius: 8px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    font-size: 1.5rem;
+    font-weight: 500;
+    border: none;
+    border-radius: 8px;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
