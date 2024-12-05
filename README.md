@@ -28,7 +28,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/temperature-converter.git
+   git clone https://github.com/abhishek-2006/temperature-converter.git
 
 2. Open the project folder:
 ```bash
